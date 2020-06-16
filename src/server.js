@@ -11,6 +11,6 @@ app.use(routes);
 
 mongoose.connect(databaseConfig.uri);
 
-app.listen(3333, () => {
+app.listen(process.env.PORT || 3333, () => {
   console.log("Server is running on port localhost:3333...");
 });
