@@ -1,0 +1,466 @@
+--FRUTAS
+
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "Caju",
+	"title": "Caju",
+	"level": 1,
+	"tips": ["Fruto nativo do Brasil", "Acaui na lingUá Tupi", "Castanha do..."]
+},
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "Manga",
+	"title": "Manga",
+	"level": 1,
+	"tips": ["Cão chupando é muito feio.", "Parte de roupa", "Coloração variada: amarelo, laranja e vermelha"]
+},
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "Açaí",
+	"title": "Acai",
+	"level": 1,
+	"tips": ["Sua cor é roxa", "Consumido geralmente em formas de suco ou sorvete", "Alguns adicionam granola"]
+},
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "Cacau",
+	"title": "Cacau",
+	"level": 1,
+	"tips": ["Principal matéria-prima do chocolate", "Da árvore perenefólia", "De origem da Bacia do rio Amazonas"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "MARACUJÁ",
+	"title": "Maracuja",
+	"level": 1,
+	"tips": ["Conhecido como a fruta da tranquilidade.", "Redondo e amarelo", "Possui muitas sementes"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "ROMÃ",
+	"title": "Roma",
+	"level": 2,
+	"tips": ["Casca coreácea de cor castanho brilhante", "Pode ajudar a reduzir a pressão arterial", "Fruto da romãzeira"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "UVA",
+	"title": "UVA",
+	"level": 1,
+	"tips": ["Fruto da videira", "Utilizada na produção de vinhos", "Crescem em cachos"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "MELÃO",
+	"title": "MELAO",
+	"level": 1,
+	"tips": ["Normalmente de cor amarelada", "Lembra um bola", "Bastante refrescante"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Frutas",
+	"original": "Melão",
+	"title": "Melão",
+	"level": 1,
+	"tips": ["Conhecido como papaia", "Fruto ovulado", "De cor laranja"]
+}
+
+
+--FUTEBOL
+
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Drible",
+	"title": "Drible",
+	"level": 2,
+	"tips": ["Ação de sair do adversário", "Normalmente executado pelos craques do time", "Jogada que levanta a torcida"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Bandeira",
+	"title": "Bandeira",
+	"level": 1,
+	"tips": ["Ela exibe o símbolo ou cores do time", "Algumas cobrem todo o estádio", "Muitos penduram em seus carros ou casas"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Gol",
+	"title": "Gol",
+	"level": 1,
+	"tips": ["Ato mais importante do jogo de futebol", "A baliza por onde a bola deve entrar", "Contagem de pontos no futebol"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Bola",
+	"title": "Bola",
+	"level": 1,
+	"tips": ["Seu objeto principal", "Pula bem alto", "Sua cor principal é branca"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Trave",
+	"title": "Trave",
+	"level": 1,
+	"tips": ["Local onde a bola deve passar", "Casa do goleiro", "Se bater nela não vale"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Carrinho",
+	"title": "Carrinho",
+	"level": 2,
+	"tips": ["Jogada realizada para roubar a bola", "Muitas vezes essa jogada é falta", "Por trás é vermelho na hora"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Time",
+	"title": "Time",
+	"level": 1,
+	"tips": ["Conjunto de jogadores", "Eles disputam os campeonatos", "Somente um deles é o campeão"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Goleiro",
+	"title": "Goleiro",
+	"level": 1,
+	"tips": ["Normalmente o número 1 do time", "Joga de luvas", "Fica sempre debaixo das traves"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Estádio",
+	"title": "Estadio",
+	"level": 1,
+	"tips": ["Local onde é realizado o evento", "Alguns são bem grandes", "Possui arquibancadas"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Campo",
+	"title": "Campo",
+	"level": 1,
+	"tips": ["Local onde rola a bola", "De cor verde", "Pode ser de grama natural ou sintética"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Torcida",
+	"title": "Torcida",
+	"level": 1,
+	"tips": ["Organizada", "E ela vai ao delírio", "Ela que canta e grita"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Chute",
+	"title": "Chute",
+	"level": 2,
+	"tips": ["Movimento realizado para fazer o gol", "Alguns jogadores nem sempre acertam", "O famoso tapa colocado"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Penalti",
+	"title": "Penalti",
+	"level": 2,
+	"tips": ["Quando a partida termina empatada, ele entra em ação", "Pode ocorrer por uma falta dentro da área", "Disputa entre goleiro e atacante"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Futebol",
+	"original": "Juiz",
+	"title": "Juiz",
+	"level": 1,
+	"tips": ["Responsável por apitar o jogo", "Homem do apito", "Costuma mostrar cartões"]
+}
+
+
+--PROFISSOES
+
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "Carteiro",
+	"title": "Carteiro",
+	"level": 1,
+	"tips": ["Entregador de boletos", "Alguns andam muito", "Jaiminho do Chaves"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "Taxista",
+	"title": "Taxista",
+	"level": 1,
+	"tips": ["Trabalha dirigindo", "Seus cliente são passageiros", "Atendem por telefone ou aplicativos"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "Médico",
+	"title": "Medico",
+	"level": 1,
+	"tips": ["Trabalha em hospitais ou clinicas", "Possui pacientes", "De roupa branca"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "Professor",
+	"title": "Professor",
+	"level": 1,
+	"tips": ["Tem o dom de ensinar", "Tem vários alunos", "Pode ser de matemática, português, etc."]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "ALFAIATE",
+	"title": "ALFAIATE",
+	"level": 1,
+	"tips": ["Criação de roupas", "Alguns chamam de costureiro(a)", "Pode atuar em indústrias de confecções"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "ZELADOR",
+	"title": "ZELADOR",
+	"level": 1,
+	"tips": ["Mantém o bom funcionamento do condomínio", "Braço direito do síndico", "Um dos principais cargos dentro condomínio"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "Ator",
+	"title": "Ator",
+	"level": 1,
+	"tips": ["Atua em teatros, novelas ou filmes", "O galã da TV", "Alguns recebem o prêmio Oscar"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Profissões",
+	"original": "Policial",
+	"title": "Policial",
+	"level": 1,
+	"tips": ["Anda armado", "Mantém a segurança pública ou particular", "Militar ou Civil"]
+}
+
+--CORPO HUMANO
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Olhos",
+	"title": "Olhos",
+	"level": 1,
+	"tips": ["Orgão responsável pela visão", "Todos possuem dois", "Podem ser de cores diferentes"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Boca",
+	"title": "Boca",
+	"level": 1,
+	"tips": ["Abre pra falar", "Abre pra comer", "Fecha pra ouvir"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Nariz",
+	"title": "Nariz",
+	"level": 1,
+	"tips": ["Feito para respiração", "Usado como filtro de ar", "As vezes é necessário ajustar seu desvio"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Umbigo",
+	"title": "Umbigo",
+	"level": 1,
+	"tips": ["Pequeno furo na barriga", "Nasce com um cordão", "Através dele o feto se nutre até o nascimento"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Joelho",
+	"title": "Joelho",
+	"level": 1,
+	"tips": ["Articulação entre a perna", "Alguns causam dores", "Patela é um osso"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Crânio",
+	"title": "Cranio",
+	"level": 1,
+	"tips": ["Caixinha do cérebro", "Fica na cabeça", "Constituído por 8 ossos"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Rins",
+	"title": "Rins",
+	"level": 1,
+	"tips": ["Filtro de sangue", "Precisa de muita água para limpar", "Suas pedras geram muita dor"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Corpo Humano",
+	"original": "Cérebro",
+	"title": "Cerebro",
+	"level": 1,
+	"tips": ["Controla todo o sistema do corpo humano", "Possui dois hemisférios", "Cada lado controla determinadas funções"]
+}
+
+--CAPITAL DO MUNDO
+{
+	"language": "pt-BR",
+	"theme": "Capitais do Mundo",
+	"original": "Paris",
+	"title": "Paris",
+	"level": 1,
+	"tips": ["Torre Eiffel", "Catedral de Notre-Dame", "Segundo destino aéreo mais movimentado do mundo até 2018"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Capitais do Mundo",
+	"original": "Tóquio",
+	"title": "Toquio",
+	"level": 2,
+	"tips": ["Metrópole mais populosa do mundo", "Se chamava Edo quando foi fundada", "Possui mais de duzentas estações de metrô."]
+}
+{
+	"language": "pt-BR",
+	"theme": "Capitais do Mundo",
+	"original": "Roma",
+	"title": "Roma",
+	"level": 1,
+	"tips": ["Sede do Coliseu", "Basílica de São Pedro - Vaticano", "Quarta cidade mais populosa da União Europeia."]
+}
+{
+	"language": "pt-BR",
+	"theme": "Capitais do Mundo",
+	"original": "Moscou",
+	"title": "Moscou",
+	"level": 2,
+	"tips": ["Sede do Exército vermelho", "Seu país foi sede da Copa do Munda FIFA 2018", "A praça vermelha é um patrimonio mundial."]
+}
+{
+	"language": "pt-BR",
+	"theme": "Capitais do Mundo",
+	"original": "Santiago do Chile",
+	"title": "Santiago",
+	"level": 2,
+	"tips": ["Sede do Museu Nacional de Belas Artes", "Famosas por suas vinícolas e estações de Esqui ao redor", "Localizada na América do Sul"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Capitais do Mundo",
+	"original": "Brasília",
+	"title": "Brasilia",
+	"level": 1,
+	"tips": ["Concebida por Oscar Niemeyer", "Congresso Nacional", "Palácio da Alvorada"]
+}
+
+Bandas Nacionais
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Legião Urbana",
+	"title": "Legiao",
+	"level": 1,
+	"tips": ["Renato Russo", "Urbana", "Que país é esse?"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Skank",
+	"title": "Skank",
+	"level": 1,
+	"tips": ["Banda de Belo Horizonte", "É proibido fumar", "Rosa"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Titãs",
+	"title": "Titas",
+	"level": 1,
+	"tips": ["Formada em 1982", "Nando Reis é um ex integrante", "Ganharam o Troféu Imprensa por quatro vezes."]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Jota Quest",
+	"title": "JotaQuest",
+	"level": 1,
+	"tips": ["Banda mineira", "Inspirada no desenho animado Jonny Q...", "O filme Planeta dos Macacos, inspirou um de seus discos."]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Barão Vermelho",
+	"title": "Barao",
+	"level": 1,
+	"tips": ["É Vermelho", "Carioca dos anos 80", "Cazuza"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Engenheiros do Hawaii",
+	"title": "Hawaii",
+	"level": 1,
+	"tips": ["Rivais de estudantes de engenharia e surfistas", "O papa é pop", "Do sul do Brasil"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Nacionais",
+	"original": "Capital Inicial",
+	"title": "Capital",
+	"level": 1,
+	"tips": ["Ouro Preto", "De Brasília", "Formada após o encerramento de outra banda, Aborto Elétrico"]
+}
+
+BANDAS INTERNACIONAIS
+{
+	"language": "pt-BR",
+	"theme": "Bandas Internacionais",
+	"original": "Queen",
+	"title": "Queen",
+	"level": 1,
+	"tips": ["Bohemian", "Banda britânica", "Freddie Mercury"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Internacionais",
+	"original": "AC/DC",
+	"title": "ACDC",
+	"level": 1,
+	"tips": ["Banda australiana", "Dos irmãos Malcolm e Angus Young", "Back in Black é um clássico"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Internacionais",
+	"original": "U2",
+	"title": "U2",
+	"level": 1,
+	"tips": ["Banda irlandesa", "Bono", "Considerado um grupo politicamente e socialmente consciente"]
+}
+{
+	"language": "pt-BR",
+	"theme": "Bandas Internacionais",
+	"original": "Metallica",
+	"title": "Metallica",
+	"level": 1,
+	"tips": ["Banda norte-americana", "Autora de obras como Master of Puppets e The Black Album", "De estilo trash e heavy metal"]
+}

@@ -4,7 +4,7 @@ class WordRepository {
   async create(data) {
     const w = { ...data };
     if (await Word.findOne({ title: w.title })) {
-      throw new Error(`Word > (${w.title}), already exists!`);
+      throw new Error(`Word > (${w.original}), already exists!`);
     }
 
     await Word.create(w);
@@ -22,7 +22,7 @@ class WordRepository {
         language: language,
         createdAt: { $gt: new Date(lastUpdate) },
       },
-      "-_id theme title level tips"
+      "-_id theme title original level tips"
     );
   }
 }

@@ -13,6 +13,10 @@ const WordSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  original: {
+    type: String,
+    require: true,
+  },
   level: {
     type: Number,
     required: true,
