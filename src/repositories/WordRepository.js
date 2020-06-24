@@ -11,9 +11,13 @@ class WordRepository {
   }
 
   async findAll(language) {
-    return await Word.find({
-      language: language,
-    });
+    return await Word.find(
+      {
+        language: language,
+      },
+      ["-_id theme title original level tips"],
+      { sort: { level: 1 } }
+    );
   }
 
   async findBydate(language, lastUpdate) {
@@ -22,7 +26,8 @@ class WordRepository {
         language: language,
         createdAt: { $gt: new Date(lastUpdate) },
       },
-      "-_id theme title original level tips"
+      ["-_id theme title original level tips"],
+      { sort: { level: 1 } }
     );
   }
 }

@@ -6,6 +6,8 @@ const wordRouter = express.Router();
 wordRouter.use(authenticateMiddleware);
 
 wordRouter.post("/", wordController.create);
+wordRouter.post("/createAll", wordController.createAll);
+
 wordRouter.get("/findAll", wordController.findAll);
 wordRouter.get("/findBydate", wordController.findBydate);
 

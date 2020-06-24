@@ -15,6 +15,23 @@ class WordController {
     }
   }
 
+  async createAll(req, res) {
+    try {
+      for (var key in req.body) {
+        const item = req.body[key];
+        await repository.create({
+          ...item,
+        });
+      }
+
+      return res.json({ message: "Words created!" });
+    } catch (error) {
+      res.status(500).send({
+        message: error.message,
+      });
+    }
+  }
+
   async findAll(req, res) {
     try {
       const { language } = req.query;
