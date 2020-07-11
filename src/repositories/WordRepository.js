@@ -3,10 +3,11 @@ const Word = require("../models/Word");
 class WordRepository {
   async create(data) {
     const w = { ...data };
-    if (await Word.findOne({ title: w.title })) {
-      throw new Error(`Word > (${w.original}), already exists!`);
+    if (await Word.findOne({ title: w.title, language: w.language })) {
+      throw new Error(
+        `Word > (${w.original} - ${w.language}), already exists!`
+      );
     }
-
     await Word.create(w);
   }
 
