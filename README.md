@@ -1,12 +1,9 @@
-# word-arena-backend
+## Word Arena
 
-** Mongo DB **
+Backend project for Word Arena Game.
 
-docker exec -it db-wordarena mongo localhost:27017
+## Stack
 
-show dbs 
-use db-wordarena
-
-show collections
-
-db.words.drop()
+* Node.js
+* Express
+* Mongoose
